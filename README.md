@@ -6,3 +6,7 @@ GAN-Generative Advarsarial Network is a class of machine learning frameworks fir
 Reference for the above Jupyter notebook: 
 https://machinelearningmastery.com/how-to-develop-a-conditional-generative-adversarial-network-from-scratch/
 
+A ppt demonstrating GAN by Ian Goodfellow:
+
+https://slazebni.cs.illinois.edu/spring17/lec11_gan.pdf
+
